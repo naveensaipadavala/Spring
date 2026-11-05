@@ -17,6 +17,7 @@ public class GitApplication {
 
 
 		System.out.println("cherry 1");
+		System.out.println("cherry 2");
 
 	}
 
