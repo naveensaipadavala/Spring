@@ -14,6 +14,10 @@ public class GitApplication {
 		SpringApplication.run(GitApplication.class, args);
 
 		System.out.println("Hello World 2");
+
+
+		System.out.println("cherry 1");
+
 	}
 
 }
